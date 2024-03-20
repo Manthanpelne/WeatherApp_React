@@ -1,0 +1,9 @@
+.outerdiv {
+  background: url('../src/assets/partly+cloudy.jpg');
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+}
+
